@@ -12,7 +12,7 @@ Atualmente estou cursando o Bootcamp TripleTen (eleito 3 anos consecutivos melho
 Também sou formado em administração de empresas, pela Pontifícia Universidade Católica de São Paulo, possuo mais de 15 anos de experiência em âmbito gerencial, e estou em transição de carreira para Desenvolvedor web.
 
 
-### Linguagens, bibliotecas, frameworks e ferramentas que possuo afinidade ou estou aprendendo:
+### Linguagens, bibliotecas, frameworks e ferramentas que possuo afinidade:
 
 <div style="display: inline_block"><br/>
 <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
