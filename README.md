@@ -1,15 +1,19 @@
 ## Olá, sou Fernando Hipólito 👋 
 
-Sou desenvolvedor Full Stack, e estou muito feliz em te ter aqui 🤓
+Sou desenvolvedor Full Stack Jr, e estou muito feliz em te ter aqui 🤓
 
 
 Tenho experiência com projetos freelancers e gosto de trabalhar com JavaScript, incluindo suas bibliotecas e frameworks, para resolver problemas na criação e manutenção de aplicações. Me sinto confortável em utilizar diversas tecnologias, tais como React, Node.js, Express.js, entre outras, e busco sempre aprender mais para melhorar minhas habilidades.
 
 
-Atualmente estou cursando o Bootcamp TripleTen (eleito 3 anos consecutivos melhor bootcamp dos Estados Unidos).
+Finalizei o Bootcamp TripleTen.
 
 
 Também sou formado em administração de empresas, pela Pontifícia Universidade Católica de São Paulo, possuo mais de 15 anos de experiência em âmbito gerencial, e estou em transição de carreira para Desenvolvedor web.
+
+No momento estou cursando segundo semestre de Gestão de TI.
+
+Essa combinação de conhecimentos me permite ter uma visão completa: a técnica, que vem do desenvolvimento; a estratégica, da administração; e a capacidade de gestão de projetos e pessoas, da Gestão de TI. Isso me coloca em uma posição ideal para cargos que integram tecnologia e estratégia corporativa.
 
 
 ### Linguagens, bibliotecas, frameworks e ferramentas que possuo afinidade:
